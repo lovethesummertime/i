@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 欢迎你的到了！
 
-You can use the [editor on GitHub](https://github.com/lovethesummertime/i/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+重新调整了一下，最新价格
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+专业阶段六个科目的价格：
 
-### Markdown
+一科20元
+二科40元
+三科50元
+四科55元
+五科60元
+六科65元
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+综合阶段：25元
 
-```markdown
-Syntax highlighted code block
+包含中华、东奥、斯尔、高顿、BT会计、良善、等各大机构的全套课程
 
-# Header 1
-## Header 2
-### Header 3
+网课视频+讲义+押题+教材(电子版)+辅导书(电子版)都是配套的
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lovethesummertime/i/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+包更新到2020年10月注会考试结束，现在预订2020年CPA资料，送2019年的资料！考前押题资料免费送，绝无二次收费！
